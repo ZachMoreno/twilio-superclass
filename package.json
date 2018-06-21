@@ -1,0 +1,28 @@
+{
+  "name": "twilio-superclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachMoreno/twilio-superclass.git"
+  },
+  "author": "Zachariah Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachMoreno/twilio-superclass/issues"
+  },
+  "homepage": "https://github.com/ZachMoreno/twilio-superclass#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "twilio": "^3.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
